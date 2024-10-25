@@ -8,7 +8,6 @@
 </p>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mostakin Ahmed
-<h3 align="center">A passionate software developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
