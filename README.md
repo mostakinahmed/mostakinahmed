@@ -3,8 +3,8 @@
 🌱 I’m currently learning...
 🎯 My goals...
 💬 Ask me about...
-![Java](https://img.shields.io/badge/python-3.8-blue)
-![C-sharp](https://img.shields.io/badge/React-18.0-blue)
+![Java](https://img.shields.io/badge/Java-3.8-blue)
+![C-sharp](https://img.shields.io/badge/C-sharp-18.0-blue)
 
 
 
