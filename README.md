@@ -3,10 +3,9 @@
 🌱 I’m currently learning...
 🎯 My goals...
 💬 Ask me about...
-![Python](https://img.shields.io/badge/python-3.8-blue)
-![React](https://img.shields.io/badge/React-18.0-blue)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Java](https://img.shields.io/badge/python-3.8-blue)
+![C-sharp](https://img.shields.io/badge/React-18.0-blue)
+
 
 
 <!--
