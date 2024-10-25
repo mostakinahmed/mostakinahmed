@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/21833273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21833273" height="30" width="40" /></a>
 <a href="https://fb.com/mostakinahmed1971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostakinahmed1971" height="30" width="40" /></a>
 <a href="https://instagram.com/mostakin_ahmed71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostakin_ahmed71" height="30" width="40" /></a>
-  <a href="https://www.github.com/mostakinahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/mostakinahmed" target="_blank"><img src="https://github.com/user-attachments/assets/3788ffac-93ac-41ba-8288-b6db7dabf2fb" width="32" height="32" /></a>
 </p>
 
 <h3 align="left">Languages Skills:</h3>
