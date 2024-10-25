@@ -27,6 +27,7 @@
   <h3 align="left">Tools:</h3>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/cb1bf341-4f46-4bfc-81ad-7d1ef861132c" alt="xd" width="40" height="40"/> </a> </p>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/33f30bba-bf24-4e3c-a383-1fce44e6b77c" alt="xd" width="40" height="40"/> </a> </p>
 
 
