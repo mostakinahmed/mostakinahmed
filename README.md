@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I’m Mostakin Ahmed
+## 🚀 Skills and Interests
+🌱 I’m currently learning...
+🎯 My goals...
+💬 Ask me about...
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![React](https://img.shields.io/badge/React-18.0-blue)
+
 
 <!--
 **mostakinahmed/mostakinahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
