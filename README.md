@@ -24,7 +24,7 @@
   
   <h3 align="left">Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/08b3db19-3ac5-46b9-b191-c3a341621fac" alt="git" width="40" height="40"/> </a> 
+   <a href="https://git-scm.com/" target="_blank" align="center"> <img src="https://github.com/user-attachments/assets/08b3db19-3ac5-46b9-b191-c3a341621fac" alt="git" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fedb485d-1fe8-4936-b692-c3aa0bfea097" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/cb1bf341-4f46-4bfc-81ad-7d1ef861132c" alt="xd" width="40" height="40"/> </a> </p>
 
