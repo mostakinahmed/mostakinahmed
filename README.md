@@ -40,6 +40,6 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="center" src="https://getvectorlogo.com/wp-content/uploads/2023/05/portfolioplus-inc-vector-logo.png" alt="Mostakin" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdzbnNiZ2Z5NzRzcWt6dXF2amw4bjExY2xta3F5eHRpbGx1eWlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHjOpLaawe5rvWvcTn/giphy.gif" alt="Mostakin" height="30" width="40" /></a>
 </p>
 
