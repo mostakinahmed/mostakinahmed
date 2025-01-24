@@ -36,7 +36,7 @@
 <a href="https://stackoverflow.com/users/21833273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21833273" height="30" width="40" /></a>
 <a href="https://fb.com/mostakinahmed1971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostakinahmed1971" height="30" width="40" /></a>
 <a href="https://instagram.com/mostakin_ahmed71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostakin_ahmed71" height="30" width="40" /></a>
-<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="right" src="https://github.com/user-attachments/assets/0c5283f8-02d6-4053-9c8f-fa5937b64715" alt="Mostakin" height="80" width="140" /></a>
+<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="right" src="https://github.com/user-attachments/assets/0c5283f8-02d6-4053-9c8f-fa5937b64715" alt="Mostakin" height="50" width="120" /></a>
 </p>
 
 
