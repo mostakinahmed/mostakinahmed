@@ -40,6 +40,6 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdzbnNiZ2Z5NzRzcWt6dXF2amw4bjExY2xta3F5eHRpbGx1eWlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hHjOpLaawe5rvWvcTn/giphy.gif" alt="Mostakin" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="center" src="https://github.com/user-attachments/assets/df7ed67c-160b-4b07-97bb-8053e5f1876d" alt="Mostakin" height="30" width="70" /></a>
 </p>
 
