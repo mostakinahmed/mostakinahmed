@@ -40,6 +40,6 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostakinahmed71" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/mostakinahmed" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetvectorlogo.com%2Fportfolioplus-inc-vector-logo-svg%2F&psig=AOvVaw1xokhtDvOWeUrpgF-C4ZIq&ust=1737812273471000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID0tbO9josDFQAAAAAdAAAAABAJ" alt="Mostakin" height="30" width="40" /></a>
 </p>
 
