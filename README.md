@@ -22,9 +22,9 @@
  
 
   <h3 align="left">Database:</h3>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b72f33bf-e843-478b-81d9-7878f76c29d2" alt="MongoDB" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.stickersdevs.com.br/wp-content/uploads/2015/07/mysql_sticker-adesivo-1-800x800.png" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.sv" alt="firebase" width="45" height="45"/> </a> 
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b72f33bf-e843-478b-81d9-7878f76c29d2" alt="MongoDB" width="45" height="45"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/a429349d-fdc2-4834-9a38-12a94a18b489" alt="mysql" width="55" height="45"/> </a> 
   
   
   <h3 align="left">Tools:</h3>
