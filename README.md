@@ -25,7 +25,7 @@
   <h3 align="left">Database:</h3>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a> 
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b72f33bf-e843-478b-81d9-7878f76c29d2" alt="MongoDB" width="45" height="45"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/72d05a77-e257-48bd-8492-a716f0a185c8" alt="mysql" width="45" height="40"/> </a> 
+<!--     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/72d05a77-e257-48bd-8492-a716f0a185c8" alt="mysql" width="45" height="40"/> </a>  -->
   
   
   <h3 align="left">Tools:</h3>
