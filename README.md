@@ -6,7 +6,7 @@
   <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg0ZzRjcjN4a3h3ZzgyNW1qdHI5NHN0NWd0cm82OGlsbWd2MzNscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.gif" width="100">
+
 </p>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mostakin Ahmed
