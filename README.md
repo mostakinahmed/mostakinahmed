@@ -1,7 +1,15 @@
 <meta name="mostakinahmed" content="mostakinahmed">
 
 <!-- ================= HEADER ICON ROW ================= -->
-<p align="center"> <img src="https://i.giphy.com/ln7z2eWriiQAllfVcn.webp" width="100"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"> <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> </p>
+<p align="center"> 
+  <img src="https://i.giphy.com/ln7z2eWriiQAllfVcn.webp" width="100"> 
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> 
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"> 
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"> 
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> 
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> 
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"> 
+</p>
 # Hi 👋 My name is Mostakin Ahmed
 
 ---
@@ -13,12 +21,13 @@
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></td>
+   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
   <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></td>
+ 
 </tr>
 </table>
 
