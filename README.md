@@ -17,28 +17,57 @@
 
 ## 🧑‍💻 Languages Skills:
 
-<div style="display:flex; flex-wrap:nowrap; gap:10px; align-items:center;">
+<table>
+<tr>
 
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
+<td align="center">
+<a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+</td>
 
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  </a>
+<td align="center">
+<a href="https://developer.android.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+</a>
+</td>
 
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
+<td align="center">
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+</td>
 
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
+<td align="center">
+<a href="https://www.w3schools.com/cs/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+</td>
 
+<td align="center">
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
+</td>
 
+<td align="center">
+<a href="https://dart.dev">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+</a>
+</td>
 
-</div>
+<td align="center">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
+</td>
 
+<td align="center">
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🗄️ Database:
