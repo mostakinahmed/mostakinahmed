@@ -1,6 +1,6 @@
 <meta name="mostakinahmed" content="mostakinahmed">
 
-<!-- ================= HEADER ICON ROW (FIXED) ================= -->
+<!-- ================= HEADER ICON ROW ================= -->
 <p align="center">
 
 <table align="center">
@@ -24,14 +24,14 @@
 
 <table>
 <tr>
-  <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></a></td>
-  <td><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></a></td>
-  <td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></a></td>
-  <td><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"></a></td>
-  <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></a></td>
-  <td><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"></a></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
+  <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"></td>
-  <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></a></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
 </tr>
 </table>
 
@@ -64,8 +64,25 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://twitter.com/mostakinahmed71">Twitter</a> •
-<a href="https://stackoverflow.com/users/21833273">StackOverflow</a> •
-<a href="https://fb.com/mostakinahmed1971">Facebook</a> •
-<a href="https://instagram.com/mostakin_ahmed71">Instagram</a>
+
+<a href="https://twitter.com/mostakinahmed71" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+  width="35" height="35" style="border:none; text-decoration:none;" />
+</a>
+
+<a href="https://stackoverflow.com/users/21833273" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+  width="35" height="35" style="border:none; text-decoration:none;" />
+</a>
+
+<a href="https://fb.com/mostakinahmed1971" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+  width="35" height="35" style="border:none; text-decoration:none;" />
+</a>
+
+<a href="https://instagram.com/mostakin_ahmed71" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+  width="35" height="35" style="border:none; text-decoration:none;" />
+</a>
+
 </p>
