@@ -49,24 +49,38 @@
 
 <p align="left">
 
+<table>
+<tr>
+
+<td>
 <a href="https://twitter.com/mostakinahmed71">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
   width="35" height="35">
 </a>
+</td>
 
+<td>
 <a href="https://stackoverflow.com/users/21833273">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
   width="35" height="35">
 </a>
+</td>
 
+<td>
 <a href="https://fb.com/mostakinahmed1971">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
   width="35" height="35">
 </a>
+</td>
 
+<td>
 <a href="https://instagram.com/mostakin_ahmed71">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
   width="35" height="35">
 </a>
+</td>
+
+</tr>
+</table>
 
 </p>
