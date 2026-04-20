@@ -81,6 +81,7 @@
 </td>
 
 </tr>
+<a href="https://www.mostakinahmed.com/" target="_blank"><img align="right" src="https://github.com/user-attachments/assets/0c5283f8-02d6-4053-9c8f-fa5937b64715" alt="Mostakin" height="37" width="150" /></a>
 </table>
 
 </p>
