@@ -10,14 +10,14 @@
 
 <table>
 <tr>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"></td>
-  <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"></td>
-  <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"></td>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40">
 </tr>
 </table>
 
@@ -25,8 +25,8 @@
 
 ## 🗄️ Database
 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"></td>
-  <img src="https://github.com/user-attachments/assets/b72f33bf-e843-478b-81d9-7878f76c29d2" width="45"><
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45">
+<img src="https://github.com/user-attachments/assets/b72f33bf-e843-478b-81d9-7878f76c29d2" width="45">
 
 ---
 
