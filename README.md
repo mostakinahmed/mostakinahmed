@@ -8,7 +8,7 @@
   <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"> 
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> 
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"> 
+ <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Snake/3D/snake_3d.png" width="100">
 </p>
 
 # Hi 👋 My name is Mostakin Ahmed
