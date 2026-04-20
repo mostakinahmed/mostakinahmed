@@ -30,7 +30,6 @@
   <td><img src="https://github.com/user-attachments/assets/b72f33bf-e843-478b-81d9-7878f76c29d2" width="45"></td>
 </tr>
 </table>
----
 
 ## 🛠️ Tools
 
