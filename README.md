@@ -12,7 +12,8 @@
 
 # Hi 👋 My name is Mostakin Ahmed
 
-
+----
+## 🔮 System Architecture
 <div align="center">
 
 
@@ -66,7 +67,7 @@
 
 ## 🧑‍💻 Languages Skills
 
-<table>
+<!-- <table>
 <tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
@@ -79,7 +80,7 @@
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"></td>
  
 </tr>
-</table>
+</table> -->
 
 ---
 
