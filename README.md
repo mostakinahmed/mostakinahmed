@@ -65,9 +65,10 @@
 
 ---
 
-## 🧑‍💻 Languages Skills
 
 <!-- <table>
+
+## 🧑‍💻 Languages Skills
 <tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"></td>
