@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## 🔮 System Architecture
+
 
 <!-- DASHBOARD STYLE TECH ICONS -->
 <table>
