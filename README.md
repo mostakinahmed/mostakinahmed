@@ -12,6 +12,56 @@
 
 # Hi 👋 My name is Mostakin Ahmed
 
+
+<div align="center">
+
+## 🔮 System Architecture
+
+<!-- DASHBOARD STYLE TECH ICONS -->
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=javascript" width="45" /><br />JavaScript
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=typescript" width="45" /><br />TypeScript
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react" width="45" /><br />React
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=redux" width="45" /><br />Redux
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br />Node.js
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=express" width="45" /><br />Express
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br />MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br />Tailwind
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="45" /><br />Docker
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="45" /><br />C++
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ADDITIONAL TECH STACK -->
+<img src="https://skillicons.dev/icons?i=python,html,css,git,aws,vite,prisma,github,vscode,postman,npm,jwt&perline=12&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">---
+
 ---
 
 ## 🧑‍💻 Languages Skills
