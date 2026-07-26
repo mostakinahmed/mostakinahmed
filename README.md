@@ -12,7 +12,7 @@
 
 # Hi 👋 My name is Mostakin Ahmed
 
-----
+
 ## 🔮 System Architecture
 <div align="center">
 
@@ -83,7 +83,6 @@
 </tr>
 </table> -->
 
----
 
 ## 🗄️ Database
 <table>
